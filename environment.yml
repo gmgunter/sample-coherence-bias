@@ -1,0 +1,10 @@
+name: sample-coherence-bias
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - python
+  - scipy
